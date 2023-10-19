@@ -47,6 +47,7 @@
       background: linear-gradient(0deg, #000 47%, rgba(0, 0, 0, 0.00) 65%) no-repeat;
       z-index: 1;
     }
+    
     main .personagem .imagem {
         height: 55%;
     }
