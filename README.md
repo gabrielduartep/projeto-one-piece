@@ -1,6 +1,3 @@
-
-
-https://gabrielduartep.github.io/projeto-one-piece/
 # One Piece Character Selector
 <div align="center">
   <img alt="Logo" src="src/imagens/one-piece-logo.png" width="150" />
@@ -14,8 +11,8 @@ https://gabrielduartep.github.io/projeto-one-piece/
 <div align="center">
   <p align="center">
    Este é um projeto que permite aos usuários selecionar personagens do anime One Piece e exibir suas fotos e descrições na tela. É 
-   uma aplicação web que utiliza HTML, CSS e JavaScript para alcançar esse objetivo. atualmente hospedado no <a         
-    href="https://gabrielduartep.github.io/projeto-one-piece/">GitHub-Pages</a>.
+   uma aplicação web que utiliza HTML, CSS e JavaScript para alcançar esse objetivo. atualmente hospedado no 
+    <a href="https://gabrielduartep.github.io/projeto-one-piece/">GitHub-Pages</a>.
   </p>
 </div>
 
